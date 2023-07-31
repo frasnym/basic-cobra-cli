@@ -1,6 +1,6 @@
 package main
 
-import "github.com/frasnym/trycobra/cmd"
+import "github.com/frasnym/basic-cobra-cli/cmd"
 
 func main() {
 	cmd.Execute()
